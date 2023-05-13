@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-es-filters/static/css/main.80162d7e.css",
+    "main.js": "/ra-es-filters/static/js/main.38fd5f5d.js",
+    "index.html": "/ra-es-filters/index.html",
+    "main.80162d7e.css.map": "/ra-es-filters/static/css/main.80162d7e.css.map",
+    "main.38fd5f5d.js.map": "/ra-es-filters/static/js/main.38fd5f5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80162d7e.css",
+    "static/js/main.38fd5f5d.js"
+  ]
+}
