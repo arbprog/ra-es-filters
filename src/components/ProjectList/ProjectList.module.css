@@ -1,0 +1,10 @@
+.project__img {
+  -webkit-transition: all 350ms ease;
+  transition: all 350ms ease0;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+.project__img:hover { filter: opacity(.8); }
+
+img { width: 100%; }
